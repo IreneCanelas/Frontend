@@ -20,7 +20,7 @@ Developed by following React Tutorial by [Scrimba](https://scrimba.com/learn/lea
 - Passing objects as props
 - Spreading objects as props
 
-Quick start:
+## Quick start:
 
 ```
 $ yarn # npm install
