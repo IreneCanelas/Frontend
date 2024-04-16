@@ -12,13 +12,6 @@ Developed by following React Tutorial by [Scrimba](https://scrimba.com/learn/lea
 - Organizing components
 - Reusable components
 - JS inside JSX
-- Props
-- Destructuring props
-- Rendering arrays
-- Mapping components
-- Key prop
-- Passing objects as props
-- Spreading objects as props
 
 ## Quick start:
 
