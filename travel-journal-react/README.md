@@ -1,4 +1,28 @@
-# React + Vite
+# Travel Journal App
+
+Developed by following React Tutorial by [Scrimba](https://scrimba.com/learn/learnreact).
+
+<img src="./images/full-app.PNG" width="400px"/>
+
+Test out this app in [Netlify](https://scrimba.com/learn/learnreact)
+
+## Project Content
+
+- JSX
+- ReactDOM.render() and .createRoot()
+- Custom components
+- Organizing components
+- Reusable components
+- JS inside JSX
+- Props
+- Destructuring props
+- Rendering arrays
+- Mapping components
+- Key prop
+- Passing objects as props
+- Spreading objects as props
+
+## Quick start:
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
