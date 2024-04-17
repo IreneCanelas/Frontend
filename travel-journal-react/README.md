@@ -4,7 +4,7 @@ Developed by following React Tutorial by [Scrimba](https://scrimba.com/learn/lea
 
 <img src="src/assets/full-app.PNG" width="400px"/>
 
-Test out this app in [Netlify](https://scrimba.com/learn/learnreact](https://main--travel-journal-react-00.netlify.app/)
+Test out this app in [Netlify](https://main--travel-journal-react-00.netlify.app/)
 
 ## Project Content
 
